@@ -1,0 +1,10 @@
+Image Name: KINGSTON_32GB-OSX-24092014-PREFLIGHT1.dmg
+
+Link to zipped image:
+https://drive.google.com/file/d/0ByWm8B0yj1gtS3ItZVh1OEZQRDA/view?usp=sharing
+
+Description:
+- Ripped 24/09/2014 (Pre-Flight1)
+- DTMF working
+- Requires small change to enable Namuru logging (in 'master.sh', run 'manager' in background and 'namuruLog.sh' in foreground)
+- Use 'dd' command to burn image (needs >=32GB card)
